@@ -2,7 +2,7 @@
 <p align="center">
 
 </p>
-<img src="https://github.com/RayyanGhnimat2003/photo/blob/main/3682558.jpg?raw=true" alt="Your Name" width="500" height="200"/>
+<img src="https://github.com/RayyanGhnimat2003/photo/blob/main/3682558.jpg?raw=true" alt="Your Name" width="800" height="400"/>
 
 
 <p align="center">Hi there! I'm Rayan Ghnimat, a passionate programmer exploring the universe of coding!</p>
