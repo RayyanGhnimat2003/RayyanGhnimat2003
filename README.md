@@ -32,7 +32,8 @@
 <h3 align="center">Connect with Me:</h3>
 <p align="center">
   
-<a href="1211073@student.birzeit.edu" target="_blank" rel="noreferrer">
+<a href="ameeraghnimat@gmail.com
+" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail&logoColor=white" alt="Email" />
 </a>
 
