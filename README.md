@@ -1,13 +1,13 @@
 <h1 align="center">🚀 Welcome to my GitHub Profile! 🚀</h1>
+
 <p align="center">
-
+  <img src="https://github.com/RayyanGhnimat2003/photo/blob/main/3682558.jpg?raw=true" alt="Your Name" width="1200" height="300"/>
 </p>
-<img src="https://github.com/RayyanGhnimat2003/photo/blob/main/3682558.jpg?raw=true" alt="Your Name" width="1200" height="300"/>
-
 
 <p align="center">Hi there! I'm Rayan Ghnimat, a passionate programmer exploring the universe of coding!</p>
 
 <h3 align="center">Languages and Tools:</h3>
+
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/>
@@ -30,11 +30,9 @@
 </p>
 
 <h3 align="center">Connect with Me:</h3>
-<p align="center">
-  
-<a href="ameeraghnimat@gmail.com
-" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail&logoColor=white" alt="Email" />
-</a>
 
+<p align="center">
+  <a href="mailto:ameeraghnimat@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
