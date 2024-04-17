@@ -1,6 +1,5 @@
 <h1 align="center">🚀 Welcome to my GitHub Profile! 🚀</h1>
 <p align="center">
-  <img src="https://path_to_your_profile_photo.jpg" alt="Rayan Ghnimat" width="200" height="200"/>
 </p>
 
 <p align="center">Hi there! I'm Rayan Ghnimat, a passionate programmer exploring the universe of coding!</p>
@@ -29,10 +28,8 @@
 
 <h3 align="center">Connect with Me:</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/your_linkedin_profile" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:your_email_address" target="_blank" rel="noreferrer">
+  
+  <a href="mailto:ameeraghnimat@gmail.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail&logoColor=white" alt="Email" />
   </a>
 </p>
