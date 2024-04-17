@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rayan Ghnimat</h1>
 <p align="left">
-  <img src="https://path_to_your_image/3682558.jpg" alt="Your Image Description" width="300" height="300"/>
+  <img src="https://www.freepik.com/free-vector/non-contact-greetings-concept_7471422.htm#page=2&query=hello%20illustrations&position=1&from_view=keyword&track=ais&uuid=1e12f4ed-2583-4b13-88ce-44b1484e7f06" alt="Your Image Description" width="300" height="300"/>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
