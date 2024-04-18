@@ -27,6 +27,11 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
   </a>
+  <!-- New additions -->
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="50" height="50"/>
+  </a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Python_data_and_functionality_structures.svg" alt="data structures" width="50" height="50"/>
 </p>
 
 <h3 align="center">Connect with Me:</h3>
